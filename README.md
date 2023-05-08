@@ -12,8 +12,10 @@ Workflow - https://trello.com/b/WdTgmLi1/housing-price-prediction
 
 ---------------------------------------------------------------------------------------------------
 Presentation - https://docs.google.com/presentation/d/1967QeKdE37LV35zL8OrKrGHKhAwBgxg_gqPtTUcOMRw/edit
+
 ---------------------------------------------------------------------------------------------------
 Jupyter Notebook - https://github.com/lj90pot/Mid_project_chilli_flakes/tree/main/Python_Notebook
+
 ---------------------------------------------------------------------------------------------------
 ARTICLES - 
 
