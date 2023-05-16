@@ -5,18 +5,16 @@ buymydreamhome.com is our client. They sell properties along all US. BMDH has se
 
 
 --------------------------------------------------------------------------------------------------
-Goal - 
-With the data provided create a model that predict the price of the property with the relevant features. 
+Goal - With the data provided create a model that predict the price of the property with the relevant features. 
 
 ---------------------------------------------------------------------------------------------------
-Workflow - 
-https://trello.com/b/WdTgmLi1/housing-price-prediction
+Workflow - https://trello.com/b/WdTgmLi1/housing-price-prediction
 
 ---------------------------------------------------------------------------------------------------
-Presentation - 
+Presentation - https://docs.google.com/presentation/d/1967QeKdE37LV35zL8OrKrGHKhAwBgxg_gqPtTUcOMRw/edit
 
 ---------------------------------------------------------------------------------------------------
-Jupyter Notebook - 
+Jupyter Notebook - https://github.com/lj90pot/Mid_project_chilli_flakes/tree/main/Python_Notebook
 
 ---------------------------------------------------------------------------------------------------
 ARTICLES - 
